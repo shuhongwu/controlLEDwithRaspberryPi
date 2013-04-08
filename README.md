@@ -46,7 +46,7 @@ Install steps
 
 
 
-**install  siriproxy plugin on Pi **
+**install  siriproxy plugin on Pi**
 
 1. mkdir ~/plugin
 
