@@ -16,7 +16,7 @@ for Webiopi,please refer here:https://code.google.com/p/webiopi/wiki/INSTALL
 Install steps
 --------------------
 
-**Install siriproxy os on your Pi On MacOS**
+**Install siriproxy os on your Pi**
 
 1. open your terminal,type: df -h ,find your SD card identifier,for example,mine is:/dev/disk2s1
 2. please cd your siriproxy os directory,type:sudo diskutil unmount /dev/disk2s1
@@ -24,7 +24,7 @@ Install steps
 4. wait about 20 minutes until the written was done. Then plus your sd card to your Pi, the login username & password is: root&siriproxy
 
 
-**Install webiopi os on your Pi On MacOS**
+**Install webiopi os on your Pi**
 
 1. follow the instructions on https://code.google.com/p/webiopi/wiki/INSTALL
 2. once install done, type: sudo python -m webiopi
